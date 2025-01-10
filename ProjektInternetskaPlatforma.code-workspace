@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "ProjektInternetskaPlatforma",
+			"path": "."
+		},
+		{
+			"name": "videosBackup",
+			"path": "../../../Desktop/VERN/Internetska platforma/videosBackup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
